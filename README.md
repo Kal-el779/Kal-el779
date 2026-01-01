@@ -6,7 +6,7 @@ I build things at the intersection of **Machine Learning, AI, and Full-Stack sys
 ---
 
 ## 🚀 What I’m Currently Working On
-- Building **ML-powered, real-world systems** (not just notebooks that die after demo day)
+- Building **ML-powered, real-world systems** 
 - Applied **Machine Learning & Deep Learning**
 - Backend-heavy projects with AI brains
 - Learning how to take ideas from **“cool concept” → “production-ready”**
@@ -34,8 +34,7 @@ I build things at the intersection of **Machine Learning, AI, and Full-Stack sys
 ## 🌌 Interests
 - Artificial Intelligence & AGI  
 - Astronomy & stargazing (yes, I look up when models are training)
-- Cutting-edge tech  
-- Solving problems most people avoid
+- Cutting-edge tech
 
 ---
 
