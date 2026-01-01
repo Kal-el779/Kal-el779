@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Kalpesh (aka Kal-el)
 
-**Jack of all trades. Engineer of the future.**  
+**Jack of all trades. CS Engineer living in India.**  
 I build things at the intersection of **Machine Learning, AI, and Full-Stack systems** — then break them, fix them, and scale them.
 
 ---
