@@ -19,7 +19,7 @@ I build things at the intersection of **Machine Learning, AI, and Full-Stack sys
 - **Backend:** FastAPI  
 - **Databases:** PostgreSQL  
 - **Dev Tools:** Git, Docker  
-- **Cloud:** In progress (doing, not pretending)
+- **Cloud:** In progress 
 
 ---
 
@@ -33,7 +33,7 @@ I build things at the intersection of **Machine Learning, AI, and Full-Stack sys
 
 ## 🌌 Interests
 - Artificial Intelligence & AGI  
-- Astronomy & stargazing  
+- Astronomy & stargazing (yes, I look up when models are training)
 - Cutting-edge tech  
 - Solving problems most people avoid
 
