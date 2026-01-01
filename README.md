@@ -1,9 +1,9 @@
-👋 Hey, I’m Kalpesh (aka Kal-el)
+##👋 Hey, I’m Kalpesh (aka Kal-el)
 
-Jack of all trades. Engineer of the future.
+Jack of all trades. CS Engineer living in India.
 I build things at the intersection of Machine Learning, AI, and Full-Stack systems — then break them, fix them, and scale them.
 
-🚀 What I’m Currently Working On
+##🚀 What I’m Currently Working On
 
 Building ML-powered, real-world systems (not just notebooks that die after demo day)
 
@@ -13,7 +13,7 @@ Backend-heavy projects with AI brains
 
 Learning how to take ideas from “cool concept” → “production-ready”
 
-🧠 Tech & Tools I Use (for real)
+##🧠 Tech & Tools I Use (for real)
 
 Languages: Python
 
