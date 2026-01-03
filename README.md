@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Kalpesh (aka Kal-el)
+# 👋 Hey, I’m Kalpesh! (aka Kal-el)
 
 **Jack of all trades. CS Engineer living in India.**  
 I build things at the intersection of **Machine Learning, AI, and Full-Stack systems** — then break them, fix them, and scale them.
@@ -35,14 +35,6 @@ I build things at the intersection of **Machine Learning, AI, and Full-Stack sys
 - Artificial Intelligence & AGI  
 - Astronomy & stargazing (yes, I look up when models are training)
 - Cutting-edge tech
-
----
-
-## 📌 Status
-- 🎓 Computer Science & Mathematics student  
-- 🛠️ Constantly building  
-- 🧠 Always learning  
-- 🔥 Playing the long game in AI
 
 ---
 
